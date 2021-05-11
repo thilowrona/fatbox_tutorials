@@ -1,4 +1,7 @@
-# Fault analysis toolbox
+# Fault analysis toolbox - tutorials
+
+![alt text](https://github.com/thilowrona/fault_analysis_toolbox/blob/master/fault_network.png)
+
 This is the companion repository to the [fault analysis toolbox](https://github.com/thilowrona/fatbox) containing a series of tutorials.
 
 ### Numerical models
