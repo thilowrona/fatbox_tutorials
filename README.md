@@ -1,5 +1,5 @@
 # Fault analysis toolbox
-This is the companion repository of the [fault analysis toolbox](https://github.com/thilowrona/fatbox) containing a series of tutorials.
+This is the companion repository to the [fault analysis toolbox](https://github.com/thilowrona/fatbox) containing a series of tutorials.
 
 ### Online tutorials
 One of the easiest ways of getting started is with Jupyter notebooks - an awesome combination of code, documentation and output. The easiest way is to run them with Google Colab, so you don't need any special hardware or software. Just try it out:
@@ -19,7 +19,7 @@ One of the easiest ways of getting started is with Jupyter notebooks - an awesom
 ### [Tutorial 5: Displacement](https://github.com/thilowrona/fatbox_tutorials/blob/main/5-displacement/5-displacement.ipynb)
 - This tutorial shows how to sum up fault slip to displacement through time
 
-### [Tutorial 6: Fault evolution](https://github.com/thilowrona/fatbox_tutorials/6-evolution/6-evolution.ipynb)
+### [Tutorial 6: Fault evolution](https://github.com/thilowrona/fatbox_tutorials/blob/main/6-evolution/6-evolution.ipynb)
 - This tutorial shows how to visualize the evolution of our faults with time
 
 
