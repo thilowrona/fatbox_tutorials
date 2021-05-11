@@ -4,19 +4,19 @@ This is the companion repository of the [fault analysis toolbox](https://github.
 ### Online tutorials
 One of the easiest ways of getting started is with Jupyter notebooks - an awesome combination of code, documentation and output. The easiest way is to run them with Google Colab, so you don't need any special hardware or software. Just try it out:
 
-### [Tutorial 1: Fault extraction](https://github.com/thilowrona/fatbox_tutorials/1-fault_extraction/1_fault_extraction.ipynb)
+### [Tutorial 1: Fault extraction](https://github.com/thilowrona/fatbox_tutorials/blob/main/1-fault_extraction/1_fault_extraction.ipynb)
 - This tutorial shows how to extract a fault network from a 2-D slice of a numerical model
 
-### [Tutorial 2: Fault properties](https://github.com/thilowrona/fatbox_tutorials/2-fault_properties/2-fault_properties.ipynb)
+### [Tutorial 2: Fault properties](https://github.com/thilowrona/fatbox_tutorials/blob/main/2-fault_properties/2-fault_properties.ipynb)
 - This tutorial shows how to calculate the strike and length of the extracted faults
 
-### [Tutorial 3: Time stepping](https://github.com/thilowrona/fatbox_tutorials/3-time_stepping/3-time_stepping.ipynb)
+### [Tutorial 3: Time stepping](https://github.com/thilowrona/fatbox_tutorials/blob/main/3-time_stepping/3-time_stepping.ipynb)
 - This tutorial shows how to track fault networks through time in numerical models
 
-### [Tutorial 4: Fault slip](https://github.com/thilowrona/fatbox_tutorials/4-fault_slip/4-fault_slip.ipynb)
+### [Tutorial 4: Fault slip](https://github.com/thilowrona/fatbox_tutorials/blob/main/4-fault_slip/4-fault_slip.ipynb)
 - This tutorial shows how to calculate fault slip from numerical models
 
-### [Tutorial 5: Displacement](https://github.com/thilowrona/fatbox_tutorials/5-displacement/5-displacement.ipynb)
+### [Tutorial 5: Displacement](https://github.com/thilowrona/fatbox_tutorials/blob/main/5-displacement/5-displacement.ipynb)
 - This tutorial shows how to sum up fault slip to displacement through time
 
 ### [Tutorial 6: Fault evolution](https://github.com/thilowrona/fatbox_tutorials/6-evolution/6-evolution.ipynb)
