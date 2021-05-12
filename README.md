@@ -7,7 +7,7 @@ This is the companion repository to the [fault analysis toolbox](https://github.
 ## Numerical models
 First, we will look at fault analyses in numerical models. One of the easiest ways of getting started is with Jupyter notebooks - an awesome combination of code, documentation and output. The easiest way is to run them with Google Colab, so you don't need any special hardware or software. Just try it out:
 
-### [Tutorial 1: Fault extraction](https://github.com/thilowrona/fatbox_tutorials/blob/main/1-fault_extraction/1_fault_extraction.ipynb)
+### [Tutorial 1: Fault extraction](https://github.com/thilowrona/fatbox_tutorials/blob/main/1-fault_extraction/1-fault_extraction.ipynb)
 - This tutorial shows how to extract a fault network from a 2-D slice of a numerical model
 
 ### [Tutorial 2: Fault properties](https://github.com/thilowrona/fatbox_tutorials/blob/main/2-fault_properties/2-fault_properties.ipynb)
