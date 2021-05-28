@@ -33,7 +33,8 @@ First, we will look at fault analyses in numerical models. One of the easiest wa
 ### [Tutorial E2](https://github.com/thilowrona/fatbox_tutorials/E2-paraview/E2-paraview.ipynb)
 - This tutorial shows how to resample a 2-D numerical model to an array with Paraview, so we can apply our workflow
 
-### [Tutorial E3](https://github.com/thilowrona/fatbox_tutorials/E3-export/E3-export.ipynb)
+### [Tutorial E3](https://github.com/thilowrona/fatbox_tutorials/E3-parallel/E3-parallel.ipynb)
+- This tutorial shows how to extract faults in parallel
+
+### [Tutorial E4](https://github.com/thilowrona/fatbox_tutorials/E4-export/E4-export.ipynb)
 - This tutorial shows how to export our fault network for 3-D visualizations in Paraview
-
-
