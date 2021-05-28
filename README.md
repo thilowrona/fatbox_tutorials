@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/thilowrona/fault_analysis_toolbox/blob/master/fault_network.png)
 
-This is the companion repository to the [fault analysis toolbox](https://github.com/thilowrona/fatbox) containing a series of tutorials. You can also find documentation of the toolbox at: [https://fatbox.readthedocs.io/en/latest/index.html](https://fatbox.readthedocs.io/en/latest/index.html).
+This is the companion repository to the [fault analysis toolbox](https://github.com/thilowrona/fatbox) containing a series of tutorials. You can also find documentation [here](https://fatbox.readthedocs.io/en/latest/index.html).
 
 ## Numerical models
 First, we will look at fault analyses in numerical models. One of the easiest ways of getting started is with Jupyter notebooks - an awesome combination of code, documentation and output. The easiest way is to run them with Google Colab, so you don't need any special hardware or software. Just try it out:
