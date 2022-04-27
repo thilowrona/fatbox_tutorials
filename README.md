@@ -32,7 +32,7 @@ First, we will look at fault analyses in numerical models. One of the easiest wa
 - This tutorial shows how to extract a fault network from a DEM
 
 ## Seismic reflection data
-### [Tutorial D1: Fault extraction from digital elevation model (DEM)](https://github.com/thilowrona/fatbox_tutorials/blob/main/1-fault_extraction/1-fault_extraction.ipynb)
+### [Tutorial D1: Fault extraction from seismic attribute map](https://github.com/thilowrona/fatbox_tutorials/blob/main/1-fault_extraction/1-fault_extraction.ipynb)
 - This tutorial shows how to extract a fault network from seismic attribute map
 
 
