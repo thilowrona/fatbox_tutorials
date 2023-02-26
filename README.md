@@ -1,7 +1,18 @@
-# This Repo is forked from [fault analysis toolbox](https://github.com/thilowrona/fatbox_tutorials)
+## This Repo is forked from [fault analysis toolbox](https://github.com/thilowrona/fatbox_tutorials)
 
-## Data
+# Data
 Data that i used for my project is predicted fault that you can find [Here](https://github.com/kelreeeeey/UniPracticalWork/tree/main/Predicted_fault_data)
+
+# ML - Fault Prediction
+Fault Prediction using [FaultNet](https://github.com/douyimin/FaultNet)
+
+# Results
+Predicted Data Seismic Data: <div align=center><img src="https://github.com/kelreeeeey/UniPracticalWork/blob/main/Kerry%20Inline%2014.png" width="805" height="517" alt="Results"/><br/></div>
+
+Binerized Predicted Fault: https://github.com/kelreeeeey/UniPracticalWork/blob/main/Kerry%20Inline%2014%20-%20Binerized.png
+Skeletonized Predicted Fault: https://github.com/kelreeeeey/UniPracticalWork/blob/main/Kerry%20Inline%2014%20-%20Skeletonized.png
+Connected Components/Fault: https://github.com/kelreeeeey/UniPracticalWork/blob/main/Kerry%20Inline%2014%20-%20Connected%20Components.png
+Labeled Fault: https://github.com/kelreeeeey/UniPracticalWork/blob/main/Kerry%20Inline%2014%20-%20Labeled%20Predicted%20Fault.png
 
 
 ## Fault analysis toolbox - tutorials
